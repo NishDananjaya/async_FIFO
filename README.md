@@ -100,27 +100,6 @@ Simulation results of the FIFO design:
 
 * * * * *
 
-
-🖼 Adding Images in README
---------------------------
-
-You can include images in **three ways**:
-
-### 1\. Local Image (recommended for repo screenshots)
-
-`![Description](images/fifo_rtl.png)`
-
-### 2\. Online Image (from a hosted URL)
-
-`![Gray Code Example](https://jjmk.dk/MMMI/why/Number_Systems/Gray_code/Binary_to_Gray.jpg)`
-
-### 3\. HTML for Resize/Alignment
-
-
-
-
-* * * * *
-
 🚀 Usage
 --------
 
