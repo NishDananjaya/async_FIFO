@@ -112,7 +112,7 @@ You can include images in **three ways**:
 
 ### 3\. HTML for Resize/Alignment
 
-![FIFO RTL View](https://github.com/user-attachments/assets/393443d6-3b26-4b09-8c31-ac6f418f883d /)
+![FIFO RTL View](https://github.com/user-attachments/assets/393443d6-3b26-4b09-8c31-ac6f418f883d)
 
 
 * * * * *
