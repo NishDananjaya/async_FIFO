@@ -87,12 +87,16 @@ module async_fifo (
 
 Below is the **RTL schematic view** of the FIFO:
 
+![FIFO RTL View](https://github.com/user-attachments/assets/393443d6-3b26-4b09-8c31-ac6f418f883d)
+
 * * * * *
 
 🧪 Testbench Results
 --------------------
 
 Simulation results of the FIFO design:
+
+![Test bench results](https://github.com/user-attachments/assets/465cce85-1ee8-4e49-ae72-9ab05ba1a487)
 
 * * * * *
 
@@ -112,7 +116,7 @@ You can include images in **three ways**:
 
 ### 3\. HTML for Resize/Alignment
 
-![FIFO RTL View](https://github.com/user-attachments/assets/393443d6-3b26-4b09-8c31-ac6f418f883d)
+
 
 
 * * * * *
